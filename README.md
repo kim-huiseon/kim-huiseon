@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 <img src="https://img.shields.io/badge/Instagram-FF0069?style=flat-square&logo=Instagram&logoColor=FF0069"/></a>
-<img src="https://img.shields.io/badge/https://simpleicons.org/?modal=icon&q=gmail?style=flat-square&logo=Gmail&logoColor=EA4335"/></a>
+<img src="https://simpleicons.org/?modal=icon&q=gmail?style=flat-square&logo=Gmail&logoColor=EA4335"/></a>
