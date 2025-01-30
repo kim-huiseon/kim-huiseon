@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/483f8c0c-53a8-4cf7-992b-31840f11f194)## Hi there 👋
+## Hi there 👋
 
 <!--
 **kim-huiseon/kim-huiseon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 <img src="https://img.shields.io/badge/instagram-FF0069?style=flat-square&logo=instagram&logoColor=FF0069"/></a>
+<img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=EA4335"/></a>
